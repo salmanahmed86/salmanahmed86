@@ -10,7 +10,7 @@ I'm always up-to-date with the latest tech trends, ensuring that my projects are
 🚀 **Back-end**: Node.js, Express.js, PHP, Laravel, Python, Django  
 🛢️ **Databases**: MySQL, MongoDB  
 ☁️ **Deployment**: AWS, Heroku  
-🔧 **Tools**: Git, GitHub, Jira, Docker
+🔧 **Tools**: Git, GitHub, Jira, Docker  
 🛒 **Other**: Shopify, Wordpress, WooCommerce
 
 ## 🌟 Collaboration and Communication
